@@ -1,0 +1,15 @@
+console.log(1234);
+alert(5+5);
+var age=26;
+age=28;
+console.log(age);
+let firstName="Aijth";
+firstName="Kugan";
+let lastName="Aijth";
+let fullName=firstName+ " " +lastName;
+console.log(firstName);
+console.log(fullName);
+const gender="Male";
+console.log(gender);
+const Gender="female";
+console.log(Gender);
